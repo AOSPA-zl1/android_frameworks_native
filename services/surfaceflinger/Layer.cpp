@@ -41,7 +41,7 @@
 #ifdef QTI_BSP
 #include <gralloc_priv.h>
 #include <qdMetaData.h>
- #endif
+#endif
 
 
 #include <ui/GraphicBuffer.h>
